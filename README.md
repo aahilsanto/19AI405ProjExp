@@ -82,3 +82,6 @@ else:
 ## Output:
 <img width="412" height="354" alt="image" src="https://github.com/user-attachments/assets/07f9daaf-e8ca-49c3-83a5-75ee14300da4" />
 
+## Result:
+
+Thus implementing a Sudoku Solver from scratch is done successfully
